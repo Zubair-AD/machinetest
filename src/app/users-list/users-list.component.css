@@ -1,0 +1,97 @@
+.HX{
+    margin: auto;
+    border: 1px solid #f0f0f0;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.buton{
+    height: 35px;
+   
+    width: 100%;
+    border: none;
+    border-radius: 25px;
+    text-align: left;
+    padding-left: 25px;
+    color: #9dabab;
+    outline:none;}
+
+.buttton{
+    height: 35px;
+   color: white;
+    width: 100%;
+    border: none;
+    border-radius: 25px;
+    padding-left: 25px;
+   background-color:  #0c81ff;
+    outline:none;
+}
+
+.XH{
+    margin: auto;
+    height: 50px;
+    border: 0.5px solid #F7F9F9;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #F7F9F9;
+   
+}
+
+.text{
+    padding: 0px;
+    font-size: 14px;
+    color: #464d54;
+    font-weight: 400;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #1bca43;
+    background-color: #1bca43;
+    border-radius: 0px;
+}
+.custom-checkbox .custom-control-label::before {
+     border-radius:0px;
+}
+
+.custom-control-label::before, .custom-file-label, .custom-select {
+    transition: background-color .1s ease-in-out,border-color .1s ease-in-out,box-shadow .1s ease-in-out;
+    box-shadow: none !important;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 0px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-size:10px;
+  }
+  
+  th{
+      border-top:1px solid rgba(0,0,0,.1) !important;
+      border-bottom:1px solid rgba(0,0,0,.1) !important;
+  }
+ 
+  td{
+    border-bottom: 0.5px solid #dddddd;
+  }
+  
+
+  .rt{
+    background-color: #dddddd;
+  }

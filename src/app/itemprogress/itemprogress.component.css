@@ -1,0 +1,54 @@
+.HX{
+    margin: auto;
+    border: 1px solid #f0f0f0;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.buton{
+    height: 35px;
+   
+    width: 100%;
+    border: none;
+    border-radius: 25px;
+    text-align: left;
+    padding-left: 25px;
+    color: #9dabab;
+    outline:none;}
+
+.buttton{
+    height: 35px;
+   color: white;
+    width: 100%;
+    border: none;
+    border-radius: 25px;
+    padding-left: 25px;
+   background-color:  #0c81ff;
+    outline:none;
+}
+
+.XH{
+    margin: auto;
+    height: 75  px;
+    border: 0.5px solid #F7F9F9;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #F7F9F9;
+   
+}
+
+.vl {
+    border-left: 1.5px solid #b3a2a2;
+    height: 30px;
+    margin-top: 6px;
+  }
+
+.text{
+    padding: 0px;
+    font-size: 14px;
+    color: #464d54;
+    font-weight: 400;
+}
